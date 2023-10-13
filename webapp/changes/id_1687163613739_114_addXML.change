@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1687163613739_114_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/z/ui/s2p/mm/purrequisition/ops1/a1/changes/fragments/WorkFlowHistory.fragment.xml",
+	"reference": "customer.z.ui.s2p.mm.purrequisition.ops1.a1",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "sections",
+		"index": 3,
+		"fragmentPath": "fragments/WorkFlowHistory.fragment.xml"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.purrequisition.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurRequisitionFs--objectPage",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.purrequisition.ops1/changes/",
+	"projectId": "customer.z.ui.s2p.mm.purrequisition.ops1.a1",
+	"creation": "2023-06-19T08:33:34.249Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.19",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

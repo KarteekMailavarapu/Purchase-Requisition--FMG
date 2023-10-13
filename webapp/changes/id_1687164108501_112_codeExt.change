@@ -1,0 +1,34 @@
+{
+	"fileName": "id_1687164108501_112_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "customer/z/ui/s2p/mm/purrequisition/ops1/a1/changes/coding/addTable",
+	"reference": "customer.z.ui.s2p.mm.purrequisition.ops1.a1",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/addTable.js"
+	},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ObjectPage.view.Details"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.purrequisition.ops1/changes/",
+	"projectId": "customer.z.ui.s2p.mm.purrequisition.ops1.a1",
+	"creation": "2023-06-19T08:41:48.506Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.19",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

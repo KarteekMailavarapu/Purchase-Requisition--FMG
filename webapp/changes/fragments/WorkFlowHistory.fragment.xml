@@ -1,0 +1,17 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition  xmlns:core='sap.ui.core' xmlns.m='sap.m' xmlns:u="sap.ui.unified" xmlns="sap.uxap"  xmlns:smartTable="sap.ui.comp.smarttable" xmlns:f="sap.ui.layout.form">
+  <ObjectPageSection id="parterFunctionSection" title="Partner Functions" titleUppercase="false">
+        <subSections>
+            <ObjectPageSubSection id="workflowhistory" title="Work Flow History">
+                <blocks>
+                    <!-- <Text text="hello33243" id="ext2" /> -->
+                    <smartTable:SmartTable
+                        id="WorkflowHistory"  useExportToExcel="false" beforeRebindTable=".extension.customer.z.ui.s2p.mm.purrequisition.ops1.a1.addTable.onBeforeRebindTableForWorkflowHistory" tableType="ResponsiveTable"
+                         initiallyVisibleFields="ApprovalLevel,Approver,Status,Actionedby,Begda,Begtm,Endda,Endtm" showRowCount="false" enableAutoBinding="true"
+                         requestAtLeastFields="ApprovalLevel,Approver,Status,Actionedby,Begda,Begtm,Endda,Endtm" demandPopin="true" editable="false" ><!-- layout data used to make the table growing but the filter bar fixed -->
+                    </smartTable:SmartTable>
+                </blocks>
+            </ObjectPageSubSection>
+        </subSections>
+    </ObjectPageSection>
+</core:FragmentDefinition>

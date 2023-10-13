@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1689757804958_212_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "customer.z.ui.s2p.mm.purrequisition.ops1.a1",
+	"packageName": "$TMP",
+	"content": {
+		"property": "text",
+		"newValue": "Start Date"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.purrequisition.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurRequisitionFs--customer.z.ui.s2p.mm.purrequisition.ops1.a1.WorkflowHistory-Begda-header",
+		"type": "sap.m.Label",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.purrequisition.ops1/changes/",
+	"projectId": "customer.z.ui.s2p.mm.purrequisition.ops1.a1",
+	"creation": "2023-07-19T09:10:05.287Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.19",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "property"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
